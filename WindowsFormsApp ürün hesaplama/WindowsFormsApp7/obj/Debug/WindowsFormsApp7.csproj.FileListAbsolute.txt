@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\User\Desktop\C SARP PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+F:\C# PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+F:\C# PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+F:\C# PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+F:\C# PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+F:\C# PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+F:\C# PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+F:\C# PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+F:\C# PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+F:\C# PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+F:\C# PROJELERİ\WindowsFormsApp ürün hesaplama\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
